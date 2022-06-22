@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Shaun 👋
+
+
+- 〽️ I'm studying Computer Science at the University of Michigan
+- ‍💻 I have experienced in Java, FRC Robot Java, Web Development (HTML, CSS, JS)
+- 📝 I'm interested in learning about Artificial Intelligence, Machine Learning, and Augmented Reality
+- 📫 You can reach me at sdantas@umich.edu
 
 <!--
 **shaundantz/shaundantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
