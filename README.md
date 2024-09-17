@@ -2,7 +2,7 @@
 
 
 - 〽️ I'm studying Computer Science at the University of Michigan
-- ‍💻 I have experience in C/C++, Python, Java, FRC Robot Java, Web Development (HTML, CSS, JS)
+- ‍💻 I have experience in C/C++, Python, Java, Web Development (HTML, CSS, JS, React), SQL, BigQuery
 - 📝 I'm interested in learning about AI, ML, and VR/AR
 - 📫 You can reach me at sdantas@umich.edu
 
